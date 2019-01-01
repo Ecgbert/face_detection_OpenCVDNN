@@ -10,6 +10,7 @@ tensorflow則只有提供量化int8一種
 
 單純用於face detection的情況下不要求太嚴苛的話用tf的量化model就可以了
 
+[DEMO](https://www.youtube.com/watch?v=wbFv5mowZkY)
+
 ![image](https://github.com/lisssse14/face_detection_OpenCVDNN/blob/master/demo.gif)
 
-[DEMO YouTube](https://www.youtube.com/watch?v=wbFv5mowZkY)
