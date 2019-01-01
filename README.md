@@ -9,3 +9,5 @@ tensorflow則只有提供量化int8一種
 如果你想嘗試其他model，這邊提供連結 https://github.com/opencv/opencv_extra/tree/master/testdata/dnn
 
 單純用於face detection的情況下不要求太嚴苛的話用tf的量化model就可以了
+
+![image](https://github.com/lisssse14/face_detection_OpenCVDNN/blob/master/demo.gif)
