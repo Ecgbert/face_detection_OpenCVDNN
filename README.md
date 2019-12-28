@@ -12,5 +12,3 @@ tensorflow則只有提供量化int8一種
 
 [DEMO](https://www.youtube.com/watch?v=wbFv5mowZkY)
 
-![image](https://github.com/lisssse14/face_detection_OpenCVDNN/blob/master/demo.gif)
-
